@@ -42,4 +42,3 @@ export const routes = {
 }
 
 export const routeArray = Object.values(routes)
-export { routes }
