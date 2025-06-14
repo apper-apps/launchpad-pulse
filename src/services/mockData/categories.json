@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "AI",
+    "slug": "ai",
+    "color": "#FF6154"
+  },
+  {
+    "id": "2",
+    "name": "Design",
+    "slug": "design",
+    "color": "#5139EE"
+  },
+  {
+    "id": "3",
+    "name": "Mobile",
+    "slug": "mobile",
+    "color": "#00D4FF"
+  },
+  {
+    "id": "4",
+    "name": "Analytics",
+    "slug": "analytics",
+    "color": "#00C896"
+  },
+  {
+    "id": "5",
+    "name": "Security",
+    "slug": "security",
+    "color": "#FFB800"
+  },
+  {
+    "id": "6",
+    "name": "Productivity",
+    "slug": "productivity",
+    "color": "#9333EA"
+  },
+  {
+    "id": "7",
+    "name": "Developer Tools",
+    "slug": "developer-tools",
+    "color": "#EF4444"
+  },
+  {
+    "id": "8",
+    "name": "E-commerce",
+    "slug": "ecommerce",
+    "color": "#F59E0B"
+  }
+]

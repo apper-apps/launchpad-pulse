@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "title": "MindFlow AI",
+    "tagline": "Transform your thoughts into structured workflows",
+    "description": "MindFlow AI helps you convert scattered ideas into actionable workflows using advanced AI. Simply speak or type your thoughts, and watch as they transform into organized project plans, task lists, and visual roadmaps. Perfect for entrepreneurs, creators, and teams who want to turn ideas into reality faster.",
+    "images": [
+      "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1676299081847-824916de030a?w=400&h=300&fit=crop"
+    ],
+    "category": "AI",
+    "url": "https://mindflow-ai.com",
+    "makerId": "maker1",
+    "makerName": "Sarah Chen",
+    "launchDate": "2024-01-15T10:00:00Z",
+    "voteCount": 247,
+    "hasVoted": false
+  },
+  {
+    "id": "2",
+    "title": "DesignSync Pro",
+    "tagline": "Real-time design collaboration for distributed teams",
+    "description": "DesignSync Pro revolutionizes how design teams collaborate across time zones. Features include live design sessions, version control with visual diffs, automated design system updates, and seamless handoff to developers. Built specifically for modern remote teams who demand pixel-perfect collaboration.",
+    "images": [
+      "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop"
+    ],
+    "category": "Design",
+    "url": "https://designsync.pro",
+    "makerId": "maker2",
+    "makerName": "Marcus Rodriguez",
+    "launchDate": "2024-01-15T08:30:00Z",
+    "voteCount": 189,
+    "hasVoted": true
+  },
+  {
+    "id": "3",
+    "title": "CodeCrafter Mobile",
+    "tagline": "Build and deploy apps directly from your phone",
+    "description": "CodeCrafter Mobile lets you code, test, and deploy mobile apps using only your smartphone. Features a touch-optimized code editor, built-in emulator, cloud compilation, and one-tap deployment to app stores. Perfect for developers who want to code on the go or prototype ideas instantly.",
+    "images": [
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1606868306217-dbf5046868d2?w=400&h=300&fit=crop"
+    ],
+    "category": "Mobile",
+    "url": "https://codecrafter.mobile",
+    "makerId": "maker3",
+    "makerName": "Alex Kim",
+    "launchDate": "2024-01-15T07:15:00Z",
+    "voteCount": 156,
+    "hasVoted": false
+  },
+  {
+    "id": "4",
+    "title": "DataViz Studio",
+    "tagline": "Create stunning data visualizations without coding",
+    "description": "DataViz Studio makes complex data beautiful and understandable. Drag-and-drop interface, AI-powered chart suggestions, real-time collaboration, and export to any format. Connect to 50+ data sources including databases, APIs, and spreadsheets. Transform your data into compelling stories.",
+    "images": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+    ],
+    "category": "Analytics",
+    "url": "https://dataviz.studio",
+    "makerId": "maker4",
+    "makerName": "Emma Thompson",
+    "launchDate": "2024-01-14T16:45:00Z",
+    "voteCount": 203,
+    "hasVoted": false
+  },
+  {
+    "id": "5",
+    "title": "SecureVault Pro",
+    "tagline": "Enterprise-grade password management for teams",
+    "description": "SecureVault Pro provides bank-level security for your team's passwords and sensitive data. Features include biometric authentication, zero-knowledge encryption, automated password rotation, dark web monitoring, and detailed audit logs. Trusted by Fortune 500 companies worldwide.",
+    "images": [
+      "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=300&fit=crop"
+    ],
+    "category": "Security",
+    "url": "https://securevault.pro",
+    "makerId": "maker5",
+    "makerName": "David Park",
+    "launchDate": "2024-01-14T14:20:00Z",
+    "voteCount": 134,
+    "hasVoted": true
+  }
+]
